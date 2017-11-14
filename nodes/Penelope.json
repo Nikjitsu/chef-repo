@@ -1,0 +1,1244 @@
+{
+  "name": "Penelope",
+  "normal": {
+    "tags": [
+
+    ]
+  },
+  "automatic": {
+    "cpu": {
+      "0": {
+        "cores": 8,
+        "vendor_id": "AuthenticAMD",
+        "family": "107",
+        "model": "257",
+        "stepping": "1",
+        "physical_id": "CPU0",
+        "model_name": "AMD Ryzen 7 1700X Eight-Core Processor         ",
+        "description": "AMD64 Family 23 Model 1 Stepping 1",
+        "mhz": "3400",
+        "cache_size": "4096 KB"
+      },
+      "total": 16,
+      "cores": 8,
+      "real": 1
+    },
+    "filesystem": {
+      "B:": {
+        "kb_size": 267378,
+        "kb_available": 267366,
+        "kb_used": 12,
+        "percent_used": 0,
+        "mount": "B:",
+        "fs_type": "fat",
+        "volume_name": "RAMDisk"
+      },
+      "C:": {
+        "kb_size": 500107313,
+        "kb_available": 363325284,
+        "kb_used": 136782029,
+        "percent_used": 27,
+        "mount": "C:",
+        "fs_type": "ntfs",
+        "volume_name": ""
+      },
+      "D:": {
+        "kb_size": 0,
+        "kb_available": 0,
+        "kb_used": 0,
+        "percent_used": 0,
+        "mount": "D:",
+        "volume_name": null
+      },
+      "E:": {
+        "kb_size": 500105216,
+        "kb_available": 298595217,
+        "kb_used": 201509999,
+        "percent_used": 40,
+        "mount": "E:",
+        "fs_type": "ntfs",
+        "volume_name": ""
+      },
+      "F:": {
+        "kb_size": 27011313,
+        "kb_available": 8855760,
+        "kb_used": 18155553,
+        "percent_used": 67,
+        "mount": "F:",
+        "fs_type": "ntfs",
+        "volume_name": ""
+      },
+      "H:": {
+        "kb_size": 212571516,
+        "kb_available": 48014757,
+        "kb_used": 164556759,
+        "percent_used": 77,
+        "mount": "H:",
+        "fs_type": "ntfs",
+        "volume_name": "WinX"
+      }
+    },
+    "kernel": {
+      "os_info": {
+        "boot_device": "\\Device\\HarddiskVolume2",
+        "build_number": "15063",
+        "build_type": "Multiprocessor Free",
+        "caption": "Microsoft Windows 10 Pro",
+        "code_set": "1252",
+        "country_code": "1",
+        "creation_class_name": "Win32_OperatingSystem",
+        "cs_creation_class_name": "Win32_ComputerSystem",
+        "csd_version": null,
+        "cs_name": "PENELOPE",
+        "current_time_zone": -420,
+        "data_execution_prevention_32_bit_applications": true,
+        "data_execution_prevention_available": true,
+        "data_execution_prevention_drivers": true,
+        "data_execution_prevention_support_policy": 2,
+        "debug": false,
+        "description": "",
+        "distributed": false,
+        "encryption_level": 256,
+        "foreground_application_boost": 2,
+        "free_physical_memory": "11602696",
+        "free_space_in_paging_files": "16777216",
+        "free_virtual_memory": "27502432",
+        "install_date": "20170717092056.000000-360",
+        "large_system_cache": null,
+        "last_boot_up_time": "20171113193952.374518-420",
+        "local_date_time": "20171113205754.225000-420",
+        "locale": "0409",
+        "manufacturer": "Microsoft Corporation",
+        "max_number_of_processes": -1,
+        "max_process_memory_size": "137438953344",
+        "mui_languages": [
+          "en-US"
+        ],
+        "name": "Microsoft Windows 10 Pro|H:\\WINDOWS|\\Device\\Harddisk0\\Partition1",
+        "number_of_licensed_users": 0,
+        "number_of_processes": 176,
+        "number_of_users": 2,
+        "operating_system_sku": 48,
+        "organization": "",
+        "os_architecture": "64-bit",
+        "os_language": 1033,
+        "os_product_suite": 256,
+        "os_type": 18,
+        "other_type_description": null,
+        "pae_enabled": null,
+        "plus_product_id": null,
+        "plus_version_number": null,
+        "portable_operating_system": false,
+        "primary": true,
+        "product_type": 1,
+        "registered_user": "Delve",
+        "serial_number": "00330-80000-00000-AA536",
+        "service_pack_major_version": 0,
+        "service_pack_minor_version": 0,
+        "size_stored_in_paging_files": "16777216",
+        "status": "OK",
+        "suite_mask": 272,
+        "system_device": "\\Device\\HarddiskVolume2",
+        "system_directory": "H:\\WINDOWS\\system32",
+        "system_drive": "H:",
+        "total_swap_space_size": null,
+        "total_virtual_memory_size": "33499836",
+        "total_visible_memory_size": "16722620",
+        "version": "10.0.15063",
+        "windows_directory": "H:\\WINDOWS"
+      },
+      "name": "Microsoft Windows 10 Pro",
+      "release": "10.0.15063",
+      "version": "10.0.15063  Build 15063",
+      "os": "WINNT",
+      "cs_info": {
+        "admin_password_status": 3,
+        "automatic_managed_pagefile": true,
+        "automatic_reset_boot_option": true,
+        "automatic_reset_capability": true,
+        "boot_option_on_limit": null,
+        "boot_option_on_watch_dog": null,
+        "boot_rom_supported": true,
+        "boot_status": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bootup_state": "Normal boot",
+        "caption": "PENELOPE",
+        "chassis_bootup_state": 3,
+        "chassis_sku_number": "To be filled by O.E.M.",
+        "creation_class_name": "Win32_ComputerSystem",
+        "current_time_zone": -420,
+        "daylight_in_effect": false,
+        "description": "AT/AT COMPATIBLE",
+        "dns_host_name": "Penelope",
+        "domain": "WORKGROUP",
+        "domain_role": 0,
+        "enable_daylight_savings_time": true,
+        "front_panel_reset_status": 3,
+        "hypervisor_present": true,
+        "infrared_supported": false,
+        "initial_load_info": null,
+        "install_date": null,
+        "keyboard_password_status": 3,
+        "last_load_info": null,
+        "manufacturer": "Micro-Star International Co., Ltd",
+        "model": "MS-7A32",
+        "name": "PENELOPE",
+        "name_format": null,
+        "network_server_mode_enabled": true,
+        "number_of_logical_processors": 16,
+        "number_of_processors": 1,
+        "oem_string_array": [
+          "To be filled by O.E.M."
+        ],
+        "part_of_domain": false,
+        "pause_after_reset": "-1",
+        "pc_system_type": 1,
+        "pc_system_type_ex": 1,
+        "power_management_capabilities": null,
+        "power_management_supported": null,
+        "power_on_password_status": 3,
+        "power_state": 0,
+        "power_supply_state": 3,
+        "primary_owner_contact": null,
+        "primary_owner_name": "Delve",
+        "reset_capability": 1,
+        "reset_count": -1,
+        "reset_limit": -1,
+        "roles": [
+          "LM_Workstation",
+          "LM_Server",
+          "NT",
+          "Potential_Browser"
+        ],
+        "status": "OK",
+        "support_contact_description": null,
+        "system_family": "To be filled by O.E.M.",
+        "system_sku_number": "To be filled by O.E.M.",
+        "system_startup_delay": null,
+        "system_startup_options": null,
+        "system_startup_setting": null,
+        "system_type": "x64-based PC",
+        "thermal_state": 3,
+        "total_physical_memory": "17123962880",
+        "user_name": "Penelope\\AdmiralDaddyMan",
+        "wake_up_type": 6,
+        "workgroup": "WORKGROUP"
+      },
+      "machine": "x86_64"
+    },
+    "memory": {
+      "swap": {
+        "total": "16777216kB",
+        "free": "16777216kB"
+      },
+      "total": "16722620kB",
+      "free": "11603480kB"
+    },
+    "network": {
+      "interfaces": {
+        "0x1a": {
+          "configuration": {
+            "ip_address": [
+              "192.168.1.75",
+              "fe80::3d2e:d38d:7ca0:66e6"
+            ],
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000014] Hyper-V Virtual Ethernet Adapter",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": [
+              "192.168.1.1"
+            ],
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "Hyper-V Virtual Ethernet Adapter",
+            "dhcp_enabled": true,
+            "dhcp_lease_expires": "20171114194810.000000-420",
+            "dhcp_lease_obtained": "20171113194810.000000-420",
+            "dhcp_server": "192.168.1.1",
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "Penelope",
+            "dns_server_search_order": [
+              "192.168.1.1"
+            ],
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": [
+              0
+            ],
+            "igmp_level": null,
+            "index": 14,
+            "interface_index": 26,
+            "ip_connection_metric": 25,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "30:9C:23:01:2B:7E",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "VMSMP",
+            "setting_id": "{C367376B-3F6E-4491-A9E6-CD91BC41E99B}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000014] Hyper-V Virtual Ethernet Adapter",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "Hyper-V Virtual Ethernet Adapter",
+            "device_id": "14",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{C367376B-3F6E-4491-A9E6-CD91BC41E99B}",
+            "index": 14,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 26,
+            "last_error_code": null,
+            "mac_address": "30:9C:23:01:2B:7E",
+            "manufacturer": "Microsoft",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "Hyper-V Virtual Ethernet Adapter",
+            "net_connection_id": "vEthernet (Virtual Switch)",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "ROOT\\VMS_MP\\0000",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "Hyper-V Virtual Ethernet Adapter",
+            "service_name": "VMSMP",
+            "speed": "1000000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "PENELOPE",
+            "time_of_last_reset": "20171113193952.374518-420"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "192.168.1.75": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "192.168.1.255",
+              "family": "inet"
+            },
+            "fe80::3d2e:d38d:7ca0:66e6": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "30:9C:23:01:2B:7E": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "192.168.1.1": "08:62:66:3f:94:52",
+            "192.168.1.30": "00:25:11:74:96:4d",
+            "192.168.1.50": "08:2e:5f:0e:1e:85",
+            "192.168.1.62": "00:15:5d:28:8e:00",
+            "192.168.1.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.255.255.250": "01:00:5e:7f:ff:fa",
+            "255.255.255.255": "ff:ff:ff:ff:ff:ff"
+          },
+          "encapsulation": "Ethernet"
+        }
+      },
+      "default_gateway": "192.168.1.1",
+      "default_interface": "0x1a"
+    },
+    "counters": {
+      "network": {
+
+      }
+    },
+    "ipaddress": "192.168.1.75",
+    "macaddress": "30:9C:23:01:2B:7E",
+    "ip6address": "fe80::3d2e:d38d:7ca0:66e6",
+    "os": "windows",
+    "os_version": "10.0.15063",
+    "platform": "windows",
+    "platform_version": "10.0.15063",
+    "platform_family": "windows",
+    "uptime_seconds": 4682,
+    "uptime": "1 hours 18 minutes 02 seconds",
+    "virtualization": {
+      "systems": {
+
+      }
+    },
+    "languages": {
+      "java": {
+        "version": "1.8.0_151",
+        "runtime": {
+          "name": "Java(TM) SE Runtime Environment",
+          "build": "1.8.0_151-b12"
+        },
+        "hotspot": {
+          "name": "Java HotSpot(TM) 64-Bit Server VM",
+          "build": "25.151-b12, mixed mode"
+        }
+      },
+      "powershell": {
+        "version": "5.1.15063.674",
+        "ws_man_stack_version": "3.0",
+        "serialization_version": "1.1.0.1",
+        "clr_version": "4.0.30319.42000",
+        "build_version": "10.0.15063.674",
+        "compatible_versions": [
+          "1.0",
+          "2.0",
+          "3.0",
+          "4.0",
+          "5.0",
+          "5.1.15063.674"
+        ],
+        "remoting_protocol_version": "2.3"
+      },
+      "ruby": {
+
+      }
+    },
+    "chef_packages": {
+      "chef": {
+        "version": "13.4.19",
+        "chef_root": "H:/opscode/chefdk/embedded/lib/ruby/gems/2.4.0/gems/chef-13.4.19-universal-mingw32/lib"
+      },
+      "ohai": {
+        "version": "13.4.0",
+        "ohai_root": "H:/opscode/chefdk/embedded/lib/ruby/gems/2.4.0/gems/ohai-13.4.0/lib/ohai"
+      }
+    },
+    "dmi": {
+
+    },
+    "cloud_v2": null,
+    "cloud": null,
+    "command": {
+
+    },
+    "hostname": "Penelope",
+    "machinename": "PENELOPE",
+    "fqdn": "Penelope",
+    "domain": null,
+    "keys": {
+      "ssh": {
+
+      }
+    },
+    "fips": {
+      "kernel": {
+        "enabled": false
+      }
+    },
+    "ohai_time": 1510631876.631052,
+    "packages": {
+      "7-Zip 16.04 (x64)": {
+        "version": "16.04",
+        "publisher": "Igor Pavlov"
+      },
+      "AMD Software": {
+        "version": "9.0.000.8",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20171112"
+      },
+      "CDisplayEx 1.10.29": {
+        "publisher": "Progdigy Software S.A.R.L.",
+        "installdate": "20170402"
+      },
+      "cFosSpeed v10.21": {
+        "version": "10.21",
+        "publisher": "cFos Software GmbH, Bonn"
+      },
+      "CPUID CPU-Z MSI 1.78": {
+        "version": "1.78",
+        "publisher": "CPUID, Inc.",
+        "installdate": "20171112"
+      },
+      "GIMP 2.8.18": {
+        "version": "2.8.18",
+        "publisher": "The GIMP Team",
+        "installdate": "20170102"
+      },
+      "Git version 2.15.0": {
+        "version": "2.15.0",
+        "publisher": "The Git Development Community",
+        "installdate": "20171112"
+      },
+      "IrfanView 4.44 (64-bit)": {
+        "version": "4.44",
+        "publisher": "Irfan Skiljan"
+      },
+      "Mozilla Firefox 56.0.2 (x64 en-US)": {
+        "version": "56.0.2",
+        "publisher": "Mozilla"
+      },
+      "Intel(R) Network Connections 21.1.30.0": {
+        "version": "21.1.30.0",
+        "publisher": "Intel",
+        "installdate": "20171112"
+      },
+      "Neverwinter": {
+        "publisher": "Cryptic Studios"
+      },
+      "Torchlight II": {
+        "publisher": "Runic Games"
+      },
+      "DC Universe Online": {
+        "publisher": "Daybreak Game Company"
+      },
+      "Homeworld Remastered Collection": {
+        "publisher": "Gearbox Software"
+      },
+      "Cities: Skylines": {
+        "publisher": "Colossal Order Ltd."
+      },
+      "Trove": {
+        "publisher": "Trion Worlds"
+      },
+      "Microsoft Flight Simulator X: Steam Edition": {
+        "publisher": "Microsoft Game Studios"
+      },
+      "MechWarrior Online": {
+        "publisher": "Piranha Games Inc."
+      },
+      "Ultra Street Fighter IV": {
+        "publisher": "Capcom"
+      },
+      "Dota 2": {
+        "publisher": "Valve"
+      },
+      "Sid Meier's Civilization V": {
+        "publisher": "2K Games, Inc."
+      },
+      "Sublime Text Build 3126": {
+        "publisher": "Sublime HQ Pty Ltd",
+        "installdate": "20170207"
+      },
+      "Vulkan Run Time Libraries 1.0.61.0": {
+        "version": "1.0.61.0",
+        "publisher": "LunarG, Inc."
+      },
+      "MiniTool Partition Wizard Free 9.1": {
+        "publisher": "MiniTool Solution Ltd.",
+        "installdate": "20170201"
+      },
+      "ApoDispatchConfigurator": {
+        "version": "2.3.1401",
+        "publisher": "Nahimic",
+        "installdate": "20171112"
+      },
+      "ProductNSConfigurator": {
+        "version": "2.3.1401",
+        "publisher": "Nahimic",
+        "installdate": "20171112"
+      },
+      "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219": {
+        "version": "10.0.40219",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20161208"
+      },
+      "Oracle VM VirtualBox 5.2.0": {
+        "version": "5.2.0",
+        "publisher": "Oracle Corporation",
+        "installdate": "20171113"
+      },
+      "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40649": {
+        "version": "12.0.40649",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170219"
+      },
+      "Microsoft DVD App Installation for Microsoft.WindowsDVDPlayer_2019.6.13291.0_neutral_~_8wekyb3d8bbwe (x64)": {
+        "version": "1.0.0.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160728"
+      },
+      "Java 8 Update 151 (64-bit)": {
+        "version": "8.0.1510.12",
+        "publisher": "Oracle Corporation",
+        "installdate": "20171113"
+      },
+      "UIInstallUpgrade": {
+        "version": "2.3.1401",
+        "publisher": "Nahimic",
+        "installdate": "20171112"
+      },
+      "Microsoft Build Tools Language Resources 14.0 (amd64)": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160728"
+      },
+      "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030": {
+        "version": "11.0.61030",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171112"
+      },
+      "OpenShot Video Editor version 2.4.0": {
+        "version": "2.4.0",
+        "publisher": "OpenShot Studios, LLC",
+        "installdate": "20171024"
+      },
+      "Windows 10 Update and Privacy Settings": {
+        "version": "1.0.14.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170707"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161": {
+        "version": "9.0.30729.6161",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20161208"
+      },
+      "Java SE Development Kit 8 Update 121 (64-bit)": {
+        "version": "8.0.1210.13",
+        "publisher": "Oracle Corporation",
+        "installdate": "20170207"
+      },
+      "Microsoft Build Tools 14.0 (amd64)": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160728"
+      },
+      "Chef Development Kit v2.3.4": {
+        "version": "2.3.4.1",
+        "publisher": "Chef Software, Inc.",
+        "installdate": "20171112"
+      },
+      "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40649": {
+        "version": "12.0.40649",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170219"
+      },
+      "Microsoft Visual C++ 2005 Redistributable (x64)": {
+        "version": "8.0.61000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170311"
+      },
+      "Blender": {
+        "version": "2.79.0",
+        "publisher": "Blender Foundation",
+        "installdate": "20171106"
+      },
+      "NVIDIA Ansel": {
+        "version": "388.13",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA 3D Vision Driver 388.13": {
+        "version": "388.13",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA Control Panel 388.13": {
+        "version": "388.13",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA Graphics Driver 388.13": {
+        "version": "388.13",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA GeForce Experience 3.10.0.95": {
+        "version": "3.10.0.95",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA 3D Vision Controller Driver 369.04": {
+        "version": "369.04",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA Optimus Update 23.23.30.0": {
+        "version": "23.23.30.0",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170322"
+      },
+      "NVIDIA PhysX System Software 9.17.0524": {
+        "version": "9.17.0524",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA Update 29.1.0.0": {
+        "version": "29.1.0.0",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA SHIELD Streaming": {
+        "version": "7.1.0402",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA HD Audio Driver 1.3.35.1": {
+        "version": "1.3.35.1",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA Install Application": {
+        "version": "2.1002.259.2253",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA Backend": {
+        "version": "29.1.0.0",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA Container": {
+        "version": "1.8",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA TelemetryApi helper for NvContainer": {
+        "version": "1.8",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA LocalSystem Container": {
+        "version": "1.8",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA Message Bus for NvContainer": {
+        "version": "1.8",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA NetworkService Container": {
+        "version": "1.8",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA Session Container": {
+        "version": "1.8",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA User Container": {
+        "version": "1.8",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA Display Container": {
+        "version": "1.2",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA Display Container LS": {
+        "version": "1.2",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA Display Watchdog Plugin": {
+        "version": "1.2",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA Display Session Container": {
+        "version": "1.2",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA NodeJS": {
+        "version": "3.10.0.95",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA Watchdog Plugin for NvContainer": {
+        "version": "1.8",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA Telemetry Client": {
+        "version": "7.8.8.0",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA Telemetry Container": {
+        "version": "7.8.8.0",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA Virtual Host Controller": {
+        "version": "2.02.0.5",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "Nvidia Share": {
+        "version": "3.10.0.95",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA ShadowPlay 3.10.0.95": {
+        "version": "3.10.0.95",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA SHIELD Wireless Controller Driver": {
+        "version": "3.10.0.95",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA Update Core": {
+        "version": "29.1.0.0",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "NVIDIA Virtual Audio 4.02.2": {
+        "version": "4.02.2",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20171112"
+      },
+      "Dragon Eye(x64)": {
+        "version": "0.0.2.3",
+        "publisher": "MICRO-STAR INT'L,.LTD."
+      },
+      "SonicMapperConfigurator": {
+        "version": "2.3.1401",
+        "publisher": "Nahimic",
+        "installdate": "20171112"
+      },
+      "Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030": {
+        "version": "11.0.61030",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171112"
+      },
+      "AudioLaunchpadConfigurator": {
+        "version": "2.3.1401",
+        "publisher": "Nahimic",
+        "installdate": "20171112"
+      },
+      "ProductDaemonSetup": {
+        "version": "2.3.1401",
+        "publisher": "Nahimic",
+        "installdate": "20171112"
+      },
+      "LauncherSetup": {
+        "version": "2.3.1401",
+        "publisher": "Nahimic",
+        "installdate": "20171112"
+      },
+      "CheckDevicesConfigurator": {
+        "version": "2.3.1401",
+        "publisher": "Nahimic",
+        "installdate": "20171112"
+      },
+      "Microsoft Visual C++ 2015 x64 Additional Runtime - 14.0.24212": {
+        "version": "14.0.24212",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171112"
+      },
+      "Microsoft Visual C++ 2015 x64 Minimum Runtime - 14.0.24212": {
+        "version": "14.0.24212",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171112"
+      },
+      "Nahimic2UISetup": {
+        "version": "2.3.1401",
+        "publisher": "Nahimic",
+        "installdate": "20171112"
+      },
+      "Any Video Converter 6.1.9": {
+        "version": "6.1.9",
+        "publisher": "Anvsoft"
+      },
+      "Batman - Arkham Origins": {
+        "publisher": "R.G. Mechanics, spider91",
+        "installdate": "20170202"
+      },
+      "Batman Arkham Asylum - Game of the Year Edition": {
+        "installdate": "20170729"
+      },
+      "BitRaider Streaming Client": {
+        "version": "1.3.3.4098",
+        "publisher": "BitRaider, LLC"
+      },
+      "Deluge 1.3.13": {
+
+      },
+      "ForceBindIP-GUI": {
+        "version": "1.4",
+        "publisher": "KrazyDev"
+      },
+      "Google Chrome": {
+        "version": "62.0.3202.94",
+        "publisher": "Google Inc.",
+        "installdate": "20160720"
+      },
+      "HandBrake 1.0.7": {
+        "version": "1.0.7"
+      },
+      "LastPass (uninstall only)": {
+        "publisher": "LastPass"
+      },
+      "Mozilla Maintenance Service": {
+        "version": "56.0.2.6506",
+        "publisher": "Mozilla"
+      },
+      "NVIDIA Stereoscopic 3D Driver": {
+        "version": "7.17.13.7500",
+        "publisher": "NVIDIA Corporation"
+      },
+      "PCSX2 - Playstation 2 Emulator": {
+
+      },
+      "Steam": {
+        "version": "2.10.91.91",
+        "publisher": "Valve Corporation"
+      },
+      "Star Wars The Old Republic": {
+        "version": "",
+        "publisher": "Bioware/EA"
+      },
+      "TeamViewer 12": {
+        "version": "12.0.83369",
+        "publisher": "TeamViewer"
+      },
+      "The Elder Scrolls V Skyrim Legendary Edition version 1.9.32.8": {
+        "version": "1.9.32.8",
+        "publisher": "Mr DJ",
+        "installdate": "20170921"
+      },
+      "VLC media player": {
+        "version": "2.2.4",
+        "publisher": "VideoLAN"
+      },
+      "WinPcap 4.1.3": {
+        "version": "4.1.0.2980",
+        "publisher": "Riverbed Technology, Inc."
+      },
+      "Wireshark 2.2.7 (64-bit)": {
+        "version": "2.2.7",
+        "publisher": "The Wireshark developer community, https://www.wireshark.org"
+      },
+      "Remote Desktop Connection Manager": {
+        "version": "2.7.14060",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170617"
+      },
+      "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501": {
+        "version": "12.0.30501.0",
+        "publisher": "Microsoft Corporation"
+      },
+      "Nahimic 2": {
+        "version": "2.3.14",
+        "publisher": "Nahimic"
+      },
+      "Vagrant": {
+        "version": "2.0.1",
+        "publisher": "HashiCorp",
+        "installdate": "20171112"
+      },
+      "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171112"
+      },
+      "Minecraft": {
+        "version": "1.0.3.0",
+        "publisher": "Mojang",
+        "installdate": "20161231"
+      },
+      "Plex Media Server": {
+        "version": "1.5.3580",
+        "publisher": "Plex, Inc.",
+        "installdate": "20170404"
+      },
+      "Microsoft .NET Framework 4.6.1 SDK": {
+        "version": "4.6.01055",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160728"
+      },
+      "Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.24212": {
+        "version": "14.0.24212.0",
+        "publisher": "Microsoft Corporation"
+      },
+      "MSI Gaming Lan Manager": {
+        "version": "1.0.0.38",
+        "publisher": "MSI",
+        "installdate": "20171112"
+      },
+      "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030": {
+        "version": "11.0.61030.0",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft Flight Simulator SimConnect Client v10.0.62615.0": {
+        "version": "10.0.62615.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170311"
+      },
+      "Star Wars: The Old Republic": {
+        "version": "1.00",
+        "publisher": "Electronic Arts, Inc."
+      },
+      "Microsoft ASP.NET MVC 4 Runtime": {
+        "version": "4.0.40804.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170718"
+      },
+      "Stopping Plex": {
+        "version": "1.5.3580",
+        "publisher": "Plex, Inc.",
+        "installdate": "20170404"
+      },
+      "Microsoft .NET Framework 4.6.1 Developer Pack": {
+        "version": "4.6.1055",
+        "publisher": "Microsoft Corporation"
+      },
+      "Java Auto Updater": {
+        "version": "2.8.151.12",
+        "publisher": "Oracle Corporation",
+        "installdate": "20171113"
+      },
+      "MSI Live Update 6": {
+        "version": "6.2.0.22",
+        "publisher": "MSI",
+        "installdate": "20171112"
+      },
+      "Microsoft Build Tools Language Resources 14.0 (x86)": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160728"
+      },
+      "MSI X Boost": {
+        "version": "1.0.0.16",
+        "publisher": "MSI",
+        "installdate": "20171112"
+      },
+      "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40649": {
+        "version": "12.0.40649.5",
+        "publisher": "Microsoft Corporation"
+      },
+      "Google Update Helper": {
+        "version": "1.3.33.7",
+        "publisher": "Google Inc.",
+        "installdate": "20171113"
+      },
+      "Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.24215": {
+        "version": "14.0.24215",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20161202"
+      },
+      "Microsoft Build Tools 14.0 (x86)": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160728"
+      },
+      "Microsoft Visual C++ 2005 Redistributable": {
+        "version": "8.0.61001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170311"
+      },
+      "MSXML 4.0 SP2 Parser and SDK": {
+        "version": "4.20.9818.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170311"
+      },
+      "Microsoft Visual Studio Community 2015 with Updates": {
+        "version": "14.0.25420.1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft Visual Studio Services Hub": {
+        "version": "1.0.25420.01",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160728"
+      },
+      "OEM Application Profile": {
+        "version": "1.00.0000",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20171112"
+      },
+      "MSIRegister": {
+        "version": "2.0.0.07",
+        "publisher": "MSI",
+        "installdate": "20171112"
+      },
+      "MSI Command Center": {
+        "version": "3.0.0.18",
+        "publisher": "MSI",
+        "installdate": "20171112"
+      },
+      "Microsoft .NET Framework 4.6.1 Targeting Pack": {
+        "version": "4.6.01055",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160728"
+      },
+      "ASUS Wireless Router Firmware Restoration Utility": {
+        "version": "2.0.0.0",
+        "publisher": "ASUS",
+        "installdate": "20170908"
+      },
+      "Microsoft .NET Framework 4.6.1 Targeting Pack (ENU)": {
+        "version": "4.6.01055",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160728"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17": {
+        "version": "9.0.30729",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20161206"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161": {
+        "version": "9.0.30729.6161",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170718"
+      },
+      "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030": {
+        "version": "11.0.61030",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171112"
+      },
+      "Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.24215": {
+        "version": "14.0.24215",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20161202"
+      },
+      "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030": {
+        "version": "11.0.61030",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171112"
+      },
+      "Project64 version 2.3.0.210": {
+        "version": "2.3.0.210",
+        "installdate": "20170114"
+      },
+      "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030": {
+        "version": "11.0.61030.0",
+        "publisher": "Microsoft Corporation"
+      },
+      "Windows 10 Upgrade Assistant": {
+        "version": "1.4.9200.17332",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft Flight Simulator SimConnect Client v10.0.61259.0": {
+        "version": "10.0.61259.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170311"
+      },
+      "MSI Smart Tool": {
+        "version": "1.0.0.11",
+        "publisher": "MSI",
+        "installdate": "20171112"
+      },
+      "MSI Gaming APP": {
+        "version": "6.2.0.03",
+        "publisher": "MSI",
+        "installdate": "20171112"
+      },
+      "Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.24215": {
+        "version": "14.0.24215.1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Asmedia USB Host Controller Driver": {
+        "version": "1.16.36.1",
+        "publisher": "Asmedia Technology",
+        "installdate": "20171112"
+      },
+      "PuTTY": {
+        "version": "0.67.0.0",
+        "publisher": "Simon Tatham",
+        "installdate": "20170217"
+      },
+      "Microsoft Visual C++ 2010 Redistributable - x86 10.0.40219": {
+        "version": "10.0.40219",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170202"
+      },
+      "Realtek High Definition Audio Driver": {
+        "version": "6.0.1.8059",
+        "publisher": "Realtek Semiconductor Corp.",
+        "installdate": "20171112"
+      },
+      "MSI RAMDisk": {
+        "version": "1.0.0.22",
+        "publisher": "MSI",
+        "installdate": "20171112"
+      },
+      "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501": {
+        "version": "12.0.30501.0",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171112"
+      }
+    },
+    "root_group": "Administrators",
+    "time": {
+      "timezone": "Mountain Standard Time"
+    },
+    "recipes": [
+
+    ],
+    "expanded_run_list": [
+
+    ],
+    "roles": [
+
+    ]
+  }
+}
